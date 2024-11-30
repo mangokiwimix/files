@@ -1,1 +1,2 @@
-kapali
+std::cout << ("\n please start administrator.");
+Sleep(3000);
